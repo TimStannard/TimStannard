@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @TimStannard!
+- 👀 I’m interested in web development, with a focus on React frontend
+- 🌱 I’m currently learning full stack development
+- 📫 Reach me at stannard.tim@gmail.com
