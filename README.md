@@ -1,4 +1,3 @@
 - 👋 Hi, I’m @TimStannard!
-- 👀 I enjoy full stack web development
 - 🌱 I’m currently Tutoring Y1 Bachelor of Marketing at Yoobee
 - 📫 Reach me at stannard.tim@gmail.com
